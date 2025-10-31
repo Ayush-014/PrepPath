@@ -102,11 +102,10 @@ const Signup = () => {
       {/* Left Side */}
       <div className="w-full md:w-1/2 flex flex-col justify-center items-center bg-[#235782] text-white p-6">
         <div className="mb-6 flex gap-4 items-center">
-          <img src={collegelogo} alt="GBPIET Logo" className="w-20 lg:w-28" />
           <div>
-            <h2 className="text-xl lg:text-2xl font-sB">GBPIET</h2>
+            <h2 className="text-xl lg:text-2xl font-sB">PrepPath</h2>
             <p className="text-sm lg:text-lg font-sL">
-              Pauri-Garhwal, Uttarakhand
+              Your Gateway to a Brighter Future
             </p>
           </div>
         </div>
